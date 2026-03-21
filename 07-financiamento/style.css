@@ -154,3 +154,4 @@ tbody td:not(:first-child) {
 .col-juros { color: #f87171; }
 .col-total { color: #facc15; font-weight: 700; }
 .col-saldo { color: #d1d5db; }
+.col-saldo-devedor{color: rgb(255, 0, 0);}
